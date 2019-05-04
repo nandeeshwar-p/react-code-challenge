@@ -1,0 +1,127 @@
+[
+	{
+		"continent": "Africa",
+		"countries": [
+			{
+				"name": "Nigeria",
+				"flag": "NG"
+			},
+			{
+				"name": "Ethiopia",
+				"flag": "ET"
+			},
+			{
+				"name": "Egypt",
+				"flag": "EG"
+			},
+			{
+				"name": "DR Congo",
+				"flag": "CD"
+			},
+			{
+				"name": "South Africa",
+				"flag": "ZA"
+			}
+		]
+	},
+	{
+		"continent": "America",
+		"countries": [
+			{
+				"name": "USA",
+				"flag": "US"
+			},
+			{
+				"name": "Brazil",
+				"flag": "BR"
+			},
+			{
+				"name": "Mexico",
+				"flag": "MX"
+			},
+			{
+				"name": "Colombia",
+				"flag": "CO"
+			},
+			{
+				"name": "Argentina",
+				"flag": "AR"
+			}
+		]
+	},
+	{
+		"continent": "Asia",
+		"countries": [
+			{
+				"name": "China",
+				"flag": "CN"
+			},
+			{
+				"name": "India",
+				"flag": "IN"
+			},
+			{
+				"name": "Indonesia",
+				"flag": "ID"
+			},
+			{
+				"name": "Pakistan",
+				"flag": "PK"
+			},
+			{
+				"name": "Bangladesh",
+				"flag": "BD"
+			}
+		]
+	},
+	{
+		"continent": "Europe",
+		"countries": [
+			{
+				"name": "Russia",
+				"flag": "RU"
+			},
+			{
+				"name": "Germany",
+				"flag": "DE"
+			},
+			{
+				"name": "UK",
+				"flag": "GB"
+			},
+			{
+				"name": "France",
+				"flag": "FR"
+			},
+			{
+				"name": "Italy",
+				"flag": "IT"
+			}
+		]
+	},
+	{
+		"continent": "Oceania",
+		"countries": [
+			{
+				"name": "Australia",
+				"flag": "AU"
+			},
+			{
+				"name": "Papua New Guinea",
+				"flag": "PG"
+			},
+			{
+				"name": "New Zealand",
+				"flag": "NZ"
+			},
+			{
+				"name": "Fiji",
+				"flag": "FJ"
+			},
+			{
+				"name": "Solomon Islands",
+				"flag": "SB"
+			}
+		]
+	}
+]

@@ -1,0 +1,182 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width:auto;
+    line-height: 2rem;
+    width:100%;
+  }
+  .parentComponent{
+      background-color: #b1caf3;
+      max-width: 100vw;
+      height: 100vh;
+      overflow: auto;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    position: absolute;
+    border:1px solid #44484f;
+    width:100%;
+    text-align:center;
+  }
+  input[type=checkbox] {
+    border: 1px solid #44484f;
+  }
+  li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #44484f;
+    background-color: white;
+    padding:0px;
+    font-weight:500;
+  }
+  li:last-child {
+    border-bottom: none;
+  }
+  li:hover {
+    background-color: #4286f4;
+    color: white;
+  }
+  .left-align{
+    text-align: initial;
+  }
+  div>input{
+      width: inherit;
+      height: 2rem;
+  }
+.headerComponent{
+    position:"relative";
+    display:"inline-block";
+    padding:2%;
+}
+.title{
+    color:#367ace;
+    font-size: 2em;
+    font-variant: traditional;
+    font-style: inherit;
+    font-weight: 500;
+    font-family: monospace;
+}
+.subTitle{
+    padding: 2%;
+    font-size: 1.5em;
+    color: #44484f;
+    font-variant: traditional;
+    font-style: inherit;
+    font-weight: 400;
+    font-family: monospace;
+}
+.stepComponent{
+    width: 23%;
+    height: 50%;
+    padding: 1% 5%;
+}
+.flagComponentParent{
+    padding-top: 2%;
+}
+.flagComponentParent button{
+    margin-top:2rem;
+    background-color: #4286f4;
+    font-size: 1em;
+    border-style: solid;
+    border-color: #365881;
+    padding: 1.5vh;
+    border-radius: 7pt;
+    color: antiquewhite;
+}
+.box-display{
+    position:relative;
+    display:-webkit-box;
+}
+h4{
+    font-weight: 500;
+}
+.flag{
+    width: 5rem;
+    height: 2.5rem;
+    margin-right: -1.5rem;
+    position: relative;
+    display: block;
+    background-repeat: no-repeat;
+    margin-top: 10%;
+}
+.flag-ng{
+    background-image: url("./flags/ng.svg");
+}
+.flag-et{
+    background-image: url("./flags/et.svg");
+}
+.flag-eg{
+    background-image: url("./flags/eg.svg");
+}
+.flag-cd{
+    background-image: url("./flags/cd.svg");
+}
+.flag-za{
+    background-image: url("./flags/za.svg");
+}
+
+.flag-us{
+    background-image: url("./flags/us.svg");
+}
+.flag-br{
+    background-image: url("./flags/br.svg");
+}
+.flag-mx{
+    background-image: url("./flags/mx.svg");
+}
+.flag-co{
+    background-image: url("./flags/co.svg");
+}
+.flag-ar{
+    background-image: url("./flags/ar.svg");
+}
+
+.flag-cn{
+    background-image: url("./flags/cn.svg");
+}
+.flag-in{
+    background-image: url("./flags/in.svg");
+}
+.flag-id{
+    background-image: url("./flags/id.svg");
+}
+.flag-pk{
+    background-image: url("./flags/pk.svg");
+}
+.flag-bd{
+    background-image: url("./flags/bd.svg");
+}
+
+.flag-ru{
+    background-image: url("./flags/ru.svg");
+}
+.flag-de{
+    background-image: url("./flags/de.svg");
+}
+.flag-gb{
+    background-image: url("./flags/gb.svg");
+}
+.flag-fr{
+    background-image: url("./flags/fr.svg");
+}
+.flag-it{
+    background-image: url("./flags/it.svg");
+}
+
+.flag-au{
+    background-image: url("./flags/au.svg");
+}
+.flag-pg{
+    background-image: url("./flags/pg.svg");
+}
+.flag-nz{
+    background-image: url("./flags/nz.svg");
+}
+.flag-fj{
+    background-image: url("./flags/fj.svg");
+}
+.flag-sb{
+    background-image: url("./flags/sb.svg");
+}
